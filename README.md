@@ -1,5 +1,4 @@
-AS3SVGRenderer
-==============
+# as3_svg_renderer
 
 An AS3 SVG Renderer for AS3/AIR.
 
