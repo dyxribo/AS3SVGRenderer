@@ -1,9 +1,9 @@
-package thirdparty.com.lorentz.SVG.utils
+package com.lorentz.SVG.utils
 {
 import flash.display.DisplayObject;
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.display.base.SVGElement;
+import com.lorentz.SVG.display.base.SVGElement;
 
 public class DisplayUtils
 	{

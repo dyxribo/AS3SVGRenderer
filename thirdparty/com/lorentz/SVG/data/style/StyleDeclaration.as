@@ -1,10 +1,10 @@
-package thirdparty.com.lorentz.SVG.data.style
+package com.lorentz.SVG.data.style
 {
 import flash.events.EventDispatcher;
 
-import thirdparty.com.lorentz.SVG.events.StyleDeclarationEvent;
-import thirdparty.com.lorentz.SVG.utils.ICloneable;
-import thirdparty.com.lorentz.SVG.utils.StringUtil;
+import com.lorentz.SVG.events.StyleDeclarationEvent;
+import com.lorentz.SVG.utils.ICloneable;
+import com.lorentz.SVG.utils.StringUtil;
 
 [Event(name="propertyChange", type="com.lorentz.SVG.events.StyleDeclarationEvent")]
 	public class StyleDeclaration extends EventDispatcher implements ICloneable

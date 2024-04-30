@@ -1,14 +1,14 @@
-package thirdparty.com.lorentz.SVG.display.base
+package com.lorentz.SVG.display.base
 {
 import flash.display.DisplayObject;
 
-import thirdparty.com.lorentz.SVG.data.text.SVGDrawnText;
-import thirdparty.com.lorentz.SVG.data.text.SVGTextToDraw;
-import thirdparty.com.lorentz.SVG.display.SVGText;
-import thirdparty.com.lorentz.SVG.text.ISVGTextDrawer;
-import thirdparty.com.lorentz.SVG.utils.SVGColorUtils;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-import thirdparty.com.lorentz.SVG.utils.TextUtils;
+import com.lorentz.SVG.data.text.SVGDrawnText;
+import com.lorentz.SVG.data.text.SVGTextToDraw;
+import com.lorentz.SVG.display.SVGText;
+import com.lorentz.SVG.text.ISVGTextDrawer;
+import com.lorentz.SVG.utils.SVGColorUtils;
+import com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.utils.TextUtils;
 
 public class SVGTextContainer extends SVGGraphicsElement
 	{

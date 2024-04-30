@@ -1,15 +1,15 @@
-﻿package thirdparty.com.lorentz.SVG.display.base {
+﻿package com.lorentz.SVG.display.base {
   import flash.display.Graphics;
   import flash.display.GraphicsPathWinding;
   import flash.geom.Rectangle;
 
-  import thirdparty.com.lorentz.SVG.data.MarkerPlace;
-  import thirdparty.com.lorentz.SVG.display.SVGMarker;
-  import thirdparty.com.lorentz.SVG.drawing.DashedDrawer;
-  import thirdparty.com.lorentz.SVG.drawing.GraphicsPathDrawer;
-  import thirdparty.com.lorentz.SVG.drawing.IDrawer;
-  import thirdparty.com.lorentz.SVG.drawing.MarkersPlacesCapturerDrawer;
-  import thirdparty.com.lorentz.SVG.utils.SVGUtil;
+  import com.lorentz.SVG.data.MarkerPlace;
+  import com.lorentz.SVG.display.SVGMarker;
+  import com.lorentz.SVG.drawing.DashedDrawer;
+  import com.lorentz.SVG.drawing.GraphicsPathDrawer;
+  import com.lorentz.SVG.drawing.IDrawer;
+  import com.lorentz.SVG.drawing.MarkersPlacesCapturerDrawer;
+  import com.lorentz.SVG.utils.SVGUtil;
 
   public class SVGShape extends SVGGraphicsElement {
     private var _markers:Vector.<SVGMarker> = new Vector.<SVGMarker>();

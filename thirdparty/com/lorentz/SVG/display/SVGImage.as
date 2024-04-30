@@ -1,4 +1,4 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
 import flash.display.Bitmap;
 import flash.display.Loader;
 import flash.events.Event;
@@ -7,9 +7,9 @@ import flash.geom.Rectangle;
 import flash.net.URLRequest;
 import flash.utils.ByteArray;
 
-import thirdparty.com.lorentz.SVG.display.base.ISVGViewPort;
-import thirdparty.com.lorentz.SVG.display.base.SVGElement;
-import thirdparty.com.lorentz.SVG.utils.Base64AsyncDecoder;
+import com.lorentz.SVG.display.base.ISVGViewPort;
+import com.lorentz.SVG.display.base.SVGElement;
+import com.lorentz.SVG.utils.Base64AsyncDecoder;
 
 public class SVGImage extends SVGElement implements ISVGViewPort {
 		private var _svgHrefChanged:Boolean = false;

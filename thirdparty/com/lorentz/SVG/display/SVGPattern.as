@@ -1,15 +1,15 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
 import flash.display.BitmapData;
 import flash.display.Graphics;
 import flash.display.Sprite;
 import flash.geom.Matrix;
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.display.base.ISVGViewBox;
-import thirdparty.com.lorentz.SVG.display.base.SVGContainer;
-import thirdparty.com.lorentz.SVG.parser.SVGParserCommon;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-import thirdparty.com.lorentz.SVG.utils.StringUtil;
+import com.lorentz.SVG.display.base.ISVGViewBox;
+import com.lorentz.SVG.display.base.SVGContainer;
+import com.lorentz.SVG.parser.SVGParserCommon;
+import com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.utils.StringUtil;
 
 public class SVGPattern extends SVGContainer implements ISVGViewBox {
 		private var _finalSvgX:String;

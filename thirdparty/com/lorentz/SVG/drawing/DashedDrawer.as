@@ -1,10 +1,10 @@
-package thirdparty.com.lorentz.SVG.drawing
+package com.lorentz.SVG.drawing
 {
 import flash.geom.Point;
 
-import thirdparty.com.lorentz.SVG.utils.ArcUtils;
-import thirdparty.com.lorentz.SVG.utils.Bezier;
-import thirdparty.com.lorentz.SVG.utils.MathUtils;
+import com.lorentz.SVG.utils.ArcUtils;
+import com.lorentz.SVG.utils.Bezier;
+import com.lorentz.SVG.utils.MathUtils;
 
 public class DashedDrawer implements IDrawer
 	{

@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.drawing
+package com.lorentz.SVG.drawing
 {
 	public interface IDrawer
 	{

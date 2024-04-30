@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.display.base
+package com.lorentz.SVG.display.base
 {
 import flash.display.CapsStyle;
 import flash.display.GradientType;
@@ -10,16 +10,16 @@ import flash.events.Event;
 import flash.geom.Matrix;
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.data.gradients.SVGGradient;
-import thirdparty.com.lorentz.SVG.data.gradients.SVGLinearGradient;
-import thirdparty.com.lorentz.SVG.data.gradients.SVGRadialGradient;
-import thirdparty.com.lorentz.SVG.display.SVGPattern;
-import thirdparty.com.lorentz.SVG.drawing.DashedDrawer;
-import thirdparty.com.lorentz.SVG.events.SVGEvent;
-import thirdparty.com.lorentz.SVG.parser.SVGParserCommon;
-import thirdparty.com.lorentz.SVG.utils.SVGColorUtils;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-import thirdparty.com.lorentz.SVG.utils.StringUtil;
+import com.lorentz.SVG.data.gradients.SVGGradient;
+import com.lorentz.SVG.data.gradients.SVGLinearGradient;
+import com.lorentz.SVG.data.gradients.SVGRadialGradient;
+import com.lorentz.SVG.display.SVGPattern;
+import com.lorentz.SVG.drawing.DashedDrawer;
+import com.lorentz.SVG.events.SVGEvent;
+import com.lorentz.SVG.parser.SVGParserCommon;
+import com.lorentz.SVG.utils.SVGColorUtils;
+import com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.utils.StringUtil;
 
 public class SVGGraphicsElement extends SVGElement {
 		private var _renderInvalidFlag:Boolean = false;

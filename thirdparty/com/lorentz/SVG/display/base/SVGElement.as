@@ -1,4 +1,4 @@
-﻿package thirdparty.com.lorentz.SVG.display.base {
+﻿package com.lorentz.SVG.display.base {
   import flash.display.Bitmap;
   import flash.display.BitmapData;
   import flash.display.BlendMode;
@@ -8,18 +8,18 @@
   import flash.geom.Matrix;
   import flash.geom.Rectangle;
 
-  import thirdparty.com.lorentz.SVG.data.filters.SVGFilterCollection;
-  import thirdparty.com.lorentz.SVG.data.style.StyleDeclaration;
-  import thirdparty.com.lorentz.SVG.display.SVGClipPath;
-  import thirdparty.com.lorentz.SVG.display.SVGDocument;
-  import thirdparty.com.lorentz.SVG.display.SVGPattern;
-  import thirdparty.com.lorentz.SVG.events.SVGEvent;
-  import thirdparty.com.lorentz.SVG.events.StyleDeclarationEvent;
-  import thirdparty.com.lorentz.SVG.parser.SVGParserCommon;
-  import thirdparty.com.lorentz.SVG.utils.ICloneable;
-  import thirdparty.com.lorentz.SVG.utils.MathUtils;
-  import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-  import thirdparty.com.lorentz.SVG.utils.SVGViewPortUtils;
+  import com.lorentz.SVG.data.filters.SVGFilterCollection;
+  import com.lorentz.SVG.data.style.StyleDeclaration;
+  import com.lorentz.SVG.display.SVGClipPath;
+  import com.lorentz.SVG.display.SVGDocument;
+  import com.lorentz.SVG.display.SVGPattern;
+  import com.lorentz.SVG.events.SVGEvent;
+  import com.lorentz.SVG.events.StyleDeclarationEvent;
+  import com.lorentz.SVG.parser.SVGParserCommon;
+  import com.lorentz.SVG.utils.ICloneable;
+  import com.lorentz.SVG.utils.MathUtils;
+  import com.lorentz.SVG.utils.SVGUtil;
+  import com.lorentz.SVG.utils.SVGViewPortUtils;
 
   [Event(name="invalidate", type="com.lorentz.SVG.events.SVGEvent")]
 

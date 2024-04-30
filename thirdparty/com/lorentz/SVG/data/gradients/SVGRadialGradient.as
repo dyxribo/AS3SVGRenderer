@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.data.gradients
+package com.lorentz.SVG.data.gradients
 {
 import flash.display.GradientType;
 

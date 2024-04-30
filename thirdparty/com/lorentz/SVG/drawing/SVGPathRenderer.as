@@ -1,16 +1,16 @@
-﻿package thirdparty.com.lorentz.SVG.drawing{
+﻿package com.lorentz.SVG.drawing{
 import flash.geom.Point;
 
-import thirdparty.com.lorentz.SVG.data.path.SVGArcToCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGCurveToCubicCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGCurveToCubicSmoothCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGCurveToQuadraticCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGCurveToQuadraticSmoothCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGLineToCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGLineToHorizontalCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGLineToVerticalCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGMoveToCommand;
-import thirdparty.com.lorentz.SVG.data.path.SVGPathCommand;
+import com.lorentz.SVG.data.path.SVGArcToCommand;
+import com.lorentz.SVG.data.path.SVGCurveToCubicCommand;
+import com.lorentz.SVG.data.path.SVGCurveToCubicSmoothCommand;
+import com.lorentz.SVG.data.path.SVGCurveToQuadraticCommand;
+import com.lorentz.SVG.data.path.SVGCurveToQuadraticSmoothCommand;
+import com.lorentz.SVG.data.path.SVGLineToCommand;
+import com.lorentz.SVG.data.path.SVGLineToHorizontalCommand;
+import com.lorentz.SVG.data.path.SVGLineToVerticalCommand;
+import com.lorentz.SVG.data.path.SVGMoveToCommand;
+import com.lorentz.SVG.data.path.SVGPathCommand;
 
 public class SVGPathRenderer {
 		private var firstPoint:Point;

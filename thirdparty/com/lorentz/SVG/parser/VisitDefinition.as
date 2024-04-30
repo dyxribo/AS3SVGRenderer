@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.parser
+package com.lorentz.SVG.parser
 {
 	
 

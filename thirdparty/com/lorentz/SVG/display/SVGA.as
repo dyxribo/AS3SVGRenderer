@@ -1,9 +1,9 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
   import flash.events.MouseEvent;
   import flash.net.URLRequest;
   import flash.net.navigateToURL;
 
-  import thirdparty.com.lorentz.SVG.display.base.SVGContainer;
+  import com.lorentz.SVG.display.base.SVGContainer;
 
   public class SVGA extends SVGContainer {
     public function SVGA() {

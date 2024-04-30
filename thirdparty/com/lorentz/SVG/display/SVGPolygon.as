@@ -1,6 +1,6 @@
-﻿package thirdparty.com.lorentz.SVG.display {
-import thirdparty.com.lorentz.SVG.display.base.SVGShape;
-import thirdparty.com.lorentz.SVG.drawing.IDrawer;
+﻿package com.lorentz.SVG.display {
+import com.lorentz.SVG.display.base.SVGShape;
+import com.lorentz.SVG.drawing.IDrawer;
 
 public class SVGPolygon extends SVGShape {
 		public function SVGPolygon(){

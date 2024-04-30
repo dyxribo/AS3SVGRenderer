@@ -1,10 +1,10 @@
-﻿package thirdparty.com.lorentz.SVG.utils
+﻿package com.lorentz.SVG.utils
 {
 import flash.events.Event;
 import flash.events.EventDispatcher;
 import flash.utils.ByteArray;
 
-import thirdparty.com.lorentz.processing.Process;
+import com.lorentz.processing.Process;
 
 /**
 	 * A utility class to decode a Base64 encoded String to a ByteArray.

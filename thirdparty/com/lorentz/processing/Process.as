@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.processing
+package com.lorentz.processing
 {
 	public class Process implements IProcess
 	{

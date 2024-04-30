@@ -1,4 +1,4 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
   import flash.events.Event;
   import flash.events.IOErrorEvent;
   import flash.geom.Rectangle;
@@ -6,16 +6,16 @@
   import flash.net.URLLoaderDataFormat;
   import flash.net.URLRequest;
 
-  import thirdparty.com.lorentz.SVG.data.style.StyleDeclaration;
-  import thirdparty.com.lorentz.SVG.display.base.SVGContainer;
-  import thirdparty.com.lorentz.SVG.display.base.SVGElement;
-  import thirdparty.com.lorentz.SVG.events.SVGEvent;
-  import thirdparty.com.lorentz.SVG.parser.AsyncSVGParser;
-  import thirdparty.com.lorentz.SVG.text.FTESVGTextDrawer;
-  import thirdparty.com.lorentz.SVG.text.ISVGTextDrawer;
-  import thirdparty.com.lorentz.SVG.utils.ICloneable;
-  import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-  import thirdparty.com.lorentz.SVG.utils.StringUtil;
+  import com.lorentz.SVG.data.style.StyleDeclaration;
+  import com.lorentz.SVG.display.base.SVGContainer;
+  import com.lorentz.SVG.display.base.SVGElement;
+  import com.lorentz.SVG.events.SVGEvent;
+  import com.lorentz.SVG.parser.AsyncSVGParser;
+  import com.lorentz.SVG.text.FTESVGTextDrawer;
+  import com.lorentz.SVG.text.ISVGTextDrawer;
+  import com.lorentz.SVG.utils.ICloneable;
+  import com.lorentz.SVG.utils.SVGUtil;
+  import com.lorentz.SVG.utils.StringUtil;
 
   [Event(name="invalidate", type="com.lorentz.SVG.events.SVGEvent")]
 

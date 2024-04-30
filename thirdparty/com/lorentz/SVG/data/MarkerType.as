@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.data
+package com.lorentz.SVG.data
 {
 	public class MarkerType
 	{

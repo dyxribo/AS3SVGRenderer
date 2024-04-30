@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.display.base
+package com.lorentz.SVG.display.base
 {
 	public interface ISVGPreserveAspectRatio
 	{

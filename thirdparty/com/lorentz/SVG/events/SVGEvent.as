@@ -1,7 +1,7 @@
-﻿package thirdparty.com.lorentz.SVG.events {
+﻿package com.lorentz.SVG.events {
 import flash.events.Event;
 
-import thirdparty.com.lorentz.SVG.display.base.SVGElement;
+import com.lorentz.SVG.display.base.SVGElement;
 
 public class SVGEvent extends Event {
 		public static const INVALIDATE:String = "invalidate";

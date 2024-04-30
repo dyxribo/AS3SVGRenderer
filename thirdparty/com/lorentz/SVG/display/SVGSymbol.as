@@ -1,9 +1,9 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.display.base.ISVGPreserveAspectRatio;
-import thirdparty.com.lorentz.SVG.display.base.ISVGViewBox;
-import thirdparty.com.lorentz.SVG.display.base.SVGContainer;
+import com.lorentz.SVG.display.base.ISVGPreserveAspectRatio;
+import com.lorentz.SVG.display.base.ISVGViewBox;
+import com.lorentz.SVG.display.base.SVGContainer;
 
 public class SVGSymbol extends SVGContainer implements ISVGViewBox, ISVGPreserveAspectRatio {
 		public function SVGSymbol(){

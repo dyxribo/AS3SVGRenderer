@@ -1,6 +1,6 @@
-package thirdparty.com.lorentz.SVG.display
+package com.lorentz.SVG.display
 {
-import thirdparty.com.lorentz.SVG.display.base.SVGContainer;
+import com.lorentz.SVG.display.base.SVGContainer;
 
 public class SVGSwitch extends SVGContainer
 	{

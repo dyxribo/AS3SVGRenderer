@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.text
+package com.lorentz.SVG.text
 {
 import flash.text.engine.ElementFormat;
 import flash.text.engine.FontDescription;
@@ -9,9 +9,9 @@ import flash.text.engine.TextBlock;
 import flash.text.engine.TextElement;
 import flash.text.engine.TextLine;
 
-import thirdparty.com.lorentz.SVG.data.text.SVGDrawnText;
-import thirdparty.com.lorentz.SVG.data.text.SVGTextToDraw;
-import thirdparty.com.lorentz.SVG.utils.TextUtils;
+import com.lorentz.SVG.data.text.SVGDrawnText;
+import com.lorentz.SVG.data.text.SVGTextToDraw;
+import com.lorentz.SVG.utils.TextUtils;
 
 public class FTESVGTextDrawer implements ISVGTextDrawer
 	{	

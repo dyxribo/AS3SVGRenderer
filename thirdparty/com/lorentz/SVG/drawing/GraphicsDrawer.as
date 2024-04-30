@@ -1,11 +1,11 @@
-package thirdparty.com.lorentz.SVG.drawing
+package com.lorentz.SVG.drawing
 {
 import flash.display.Graphics;
 import flash.geom.Point;
 
-import thirdparty.com.lorentz.SVG.utils.ArcUtils;
-import thirdparty.com.lorentz.SVG.utils.Bezier;
-import thirdparty.com.lorentz.SVG.utils.FlashPlayerUtils;
+import com.lorentz.SVG.utils.ArcUtils;
+import com.lorentz.SVG.utils.Bezier;
+import com.lorentz.SVG.utils.FlashPlayerUtils;
 
 public class GraphicsDrawer implements IDrawer
 	{

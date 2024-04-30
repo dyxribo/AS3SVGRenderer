@@ -1,11 +1,11 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.display.base.ISVGViewBox;
-import thirdparty.com.lorentz.SVG.display.base.ISVGViewPort;
-import thirdparty.com.lorentz.SVG.display.base.SVGElement;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-import thirdparty.com.lorentz.SVG.utils.StringUtil;
+import com.lorentz.SVG.display.base.ISVGViewBox;
+import com.lorentz.SVG.display.base.ISVGViewPort;
+import com.lorentz.SVG.display.base.SVGElement;
+import com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.utils.StringUtil;
 
 public class SVGUse extends SVGElement implements ISVGViewPort {
 		protected var _includedElement:SVGElement;

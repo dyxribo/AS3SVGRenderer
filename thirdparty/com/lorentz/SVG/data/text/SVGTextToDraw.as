@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.data.text
+package com.lorentz.SVG.data.text
 {
 	public class SVGTextToDraw
 	{

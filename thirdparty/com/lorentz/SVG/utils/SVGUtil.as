@@ -1,7 +1,7 @@
-﻿package thirdparty.com.lorentz.SVG.utils {
+﻿package com.lorentz.SVG.utils {
 import flash.geom.Matrix;
 
-import thirdparty.com.lorentz.SVG.data.style.StyleDeclaration;
+import com.lorentz.SVG.data.style.StyleDeclaration;
 
 public class SVGUtil {
 		public static function processXMLEntities(xmlString:String):String {

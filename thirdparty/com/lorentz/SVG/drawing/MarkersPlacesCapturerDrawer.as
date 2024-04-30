@@ -1,11 +1,11 @@
-package thirdparty.com.lorentz.SVG.drawing
+package com.lorentz.SVG.drawing
 {
 import flash.geom.Point;
 
-import thirdparty.com.lorentz.SVG.data.MarkerPlace;
-import thirdparty.com.lorentz.SVG.data.MarkerType;
-import thirdparty.com.lorentz.SVG.utils.ArcUtils;
-import thirdparty.com.lorentz.SVG.utils.MathUtils;
+import com.lorentz.SVG.data.MarkerPlace;
+import com.lorentz.SVG.data.MarkerType;
+import com.lorentz.SVG.utils.ArcUtils;
+import com.lorentz.SVG.utils.MathUtils;
 
 public class MarkersPlacesCapturerDrawer implements IDrawer
 	{

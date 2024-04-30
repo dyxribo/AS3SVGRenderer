@@ -1,9 +1,9 @@
-﻿package thirdparty.com.lorentz.SVG.display {
-import thirdparty.com.lorentz.SVG.data.path.SVGPathCommand;
-import thirdparty.com.lorentz.SVG.display.base.SVGShape;
-import thirdparty.com.lorentz.SVG.drawing.IDrawer;
-import thirdparty.com.lorentz.SVG.drawing.SVGPathRenderer;
-import thirdparty.com.lorentz.SVG.parser.SVGParserCommon;
+﻿package com.lorentz.SVG.display {
+import com.lorentz.SVG.data.path.SVGPathCommand;
+import com.lorentz.SVG.display.base.SVGShape;
+import com.lorentz.SVG.drawing.IDrawer;
+import com.lorentz.SVG.drawing.SVGPathRenderer;
+import com.lorentz.SVG.parser.SVGParserCommon;
 
 public class SVGPath extends SVGShape {
 		private var _invalidPathFlag:Boolean = false;

@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.processing
+package com.lorentz.processing
 {
 import flash.display.Stage;
 import flash.events.Event;

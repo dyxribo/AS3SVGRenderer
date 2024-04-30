@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.events
+package com.lorentz.SVG.events
 {
 import flash.events.Event;
 

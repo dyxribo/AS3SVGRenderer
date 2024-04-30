@@ -1,7 +1,7 @@
-﻿package thirdparty.com.lorentz.SVG.display {
-import thirdparty.com.lorentz.SVG.display.base.SVGShape;
-import thirdparty.com.lorentz.SVG.drawing.IDrawer;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
+﻿package com.lorentz.SVG.display {
+import com.lorentz.SVG.display.base.SVGShape;
+import com.lorentz.SVG.drawing.IDrawer;
+import com.lorentz.SVG.utils.SVGUtil;
 
 public class SVGLine extends SVGShape {
 		private var _x1Units:Number;

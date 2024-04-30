@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.data.filters
+package com.lorentz.SVG.data.filters
 {
 import flash.filters.BitmapFilter;
 import flash.filters.ColorMatrixFilter;

@@ -1,12 +1,12 @@
-package thirdparty.com.lorentz.SVG.text
+package com.lorentz.SVG.text
 {
 import flash.text.TextField;
 import flash.text.TextFieldAutoSize;
 import flash.text.TextFormat;
 import flash.text.TextLineMetrics;
 
-import thirdparty.com.lorentz.SVG.data.text.SVGDrawnText;
-import thirdparty.com.lorentz.SVG.data.text.SVGTextToDraw;
+import com.lorentz.SVG.data.text.SVGDrawnText;
+import com.lorentz.SVG.data.text.SVGTextToDraw;
 
 public class TextFieldSVGTextDrawer implements ISVGTextDrawer
 	{

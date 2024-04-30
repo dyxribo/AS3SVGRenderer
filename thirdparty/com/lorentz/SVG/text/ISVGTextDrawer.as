@@ -1,7 +1,7 @@
-package thirdparty.com.lorentz.SVG.text
+package com.lorentz.SVG.text
 {
-import thirdparty.com.lorentz.SVG.data.text.SVGDrawnText;
-import thirdparty.com.lorentz.SVG.data.text.SVGTextToDraw;
+import com.lorentz.SVG.data.text.SVGDrawnText;
+import com.lorentz.SVG.data.text.SVGTextToDraw;
 
 public interface ISVGTextDrawer
 	{

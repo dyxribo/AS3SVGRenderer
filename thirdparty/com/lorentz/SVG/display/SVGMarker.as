@@ -1,16 +1,16 @@
-package thirdparty.com.lorentz.SVG.display
+package com.lorentz.SVG.display
 {
 import flash.geom.Point;
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.data.MarkerPlace;
-import thirdparty.com.lorentz.SVG.display.base.ISVGPreserveAspectRatio;
-import thirdparty.com.lorentz.SVG.display.base.ISVGViewBox;
-import thirdparty.com.lorentz.SVG.display.base.SVGContainer;
-import thirdparty.com.lorentz.SVG.display.base.SVGElement;
-import thirdparty.com.lorentz.SVG.parser.SVGParserCommon;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
-import thirdparty.com.lorentz.SVG.utils.SVGViewPortUtils;
+import com.lorentz.SVG.data.MarkerPlace;
+import com.lorentz.SVG.display.base.ISVGPreserveAspectRatio;
+import com.lorentz.SVG.display.base.ISVGViewBox;
+import com.lorentz.SVG.display.base.SVGContainer;
+import com.lorentz.SVG.display.base.SVGElement;
+import com.lorentz.SVG.parser.SVGParserCommon;
+import com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.utils.SVGViewPortUtils;
 
 public class SVGMarker extends SVGContainer implements ISVGViewBox, ISVGPreserveAspectRatio {
 		private var _invalidPlacement:Boolean = true;

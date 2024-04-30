@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.utils
+package com.lorentz.SVG.utils
 {	
 	public class TextUtils
 	{

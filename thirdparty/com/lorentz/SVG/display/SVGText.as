@@ -1,12 +1,12 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
 import flash.display.DisplayObject;
 import flash.display.Sprite;
 import flash.geom.Rectangle;
 
-import thirdparty.com.lorentz.SVG.data.text.SVGDrawnText;
-import thirdparty.com.lorentz.SVG.display.base.SVGTextContainer;
-import thirdparty.com.lorentz.SVG.utils.DisplayUtils;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.data.text.SVGDrawnText;
+import com.lorentz.SVG.display.base.SVGTextContainer;
+import com.lorentz.SVG.utils.DisplayUtils;
+import com.lorentz.SVG.utils.SVGUtil;
 
 public class SVGText extends SVGTextContainer {
 		public function SVGText(){

@@ -1,9 +1,9 @@
-﻿package thirdparty.com.lorentz.SVG.display {
+﻿package com.lorentz.SVG.display {
 import flash.display.Graphics;
 
-import thirdparty.com.lorentz.SVG.display.base.SVGShape;
-import thirdparty.com.lorentz.SVG.drawing.IDrawer;
-import thirdparty.com.lorentz.SVG.utils.SVGUtil;
+import com.lorentz.SVG.display.base.SVGShape;
+import com.lorentz.SVG.drawing.IDrawer;
+import com.lorentz.SVG.utils.SVGUtil;
 
 public class SVGCircle extends SVGShape {
 		private var _cxUnits:Number;

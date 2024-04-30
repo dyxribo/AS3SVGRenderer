@@ -1,8 +1,8 @@
-package thirdparty.com.lorentz.SVG.data.filters
+package com.lorentz.SVG.data.filters
 {
 import flash.filters.BitmapFilter;
 
-import thirdparty.com.lorentz.SVG.utils.ICloneable;
+import com.lorentz.SVG.utils.ICloneable;
 
 public class SVGFilterCollection implements ICloneable
 	{

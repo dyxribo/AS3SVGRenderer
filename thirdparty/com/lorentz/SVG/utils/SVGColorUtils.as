@@ -1,7 +1,7 @@
 ﻿/* Author: Lucas Lorentz Lara - 25/09/2008
 */
 
-package thirdparty.com.lorentz.SVG.utils{
+package com.lorentz.SVG.utils{
 	
 
 	public class SVGColorUtils {

@@ -1,4 +1,4 @@
-package thirdparty.com.lorentz.SVG.data.path
+package com.lorentz.SVG.data.path
 {
 	public class SVGCurveToCubicCommand extends SVGPathCommand
 	{

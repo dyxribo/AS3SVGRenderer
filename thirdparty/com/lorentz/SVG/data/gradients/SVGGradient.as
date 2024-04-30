@@ -1,10 +1,10 @@
-package thirdparty.com.lorentz.SVG.data.gradients
+package com.lorentz.SVG.data.gradients
 {
 import flash.geom.Matrix;
 import flash.utils.getDefinitionByName;
 import flash.utils.getQualifiedClassName;
 
-import thirdparty.com.lorentz.SVG.utils.ICloneable;
+import com.lorentz.SVG.utils.ICloneable;
 
 public class SVGGradient implements ICloneable
 	{

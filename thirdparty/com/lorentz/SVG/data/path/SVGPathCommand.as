@@ -1,6 +1,6 @@
-package thirdparty.com.lorentz.SVG.data.path
+package com.lorentz.SVG.data.path
 {
-import thirdparty.com.lorentz.SVG.utils.ICloneable;
+import com.lorentz.SVG.utils.ICloneable;
 
 public class SVGPathCommand implements ICloneable
 	{
