@@ -1,12 +1,11 @@
-AS3SVGRenderer
-==============
+# as3_svg_renderer
 
-An AS3 SVG Renderer for Flash Player.
+An AS3 SVG Renderer for AS3/AIR.
 
-It parses and translates svg elements to Flash display objects. Rendering it and letting you interact with the output.
+It parses and translates svg elements to AIR display objects. Rendering it and letting you interact with the output.
 
 Requirements:
-* Flash Player 10+
+* AIR SDK 32.0+
 
 Features:
 * Supports basic shapes and paths.
@@ -19,7 +18,6 @@ Features:
 * Supports basic document structure (g, defs, symbol, use, image).
 * Supported filters: ColorMatrix, GaussianBlur.
 * Rendered display objects keeps the svg structure, so you can code mouse/touch interactions with svg elements.
-* AS3 only.
 * Flex component.
 
 Missing features:
